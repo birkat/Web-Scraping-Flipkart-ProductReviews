@@ -26,10 +26,10 @@ The application then iterates through the review pages, scraping customer names,
 The scraped data is stored in a CSV file named after the search term for further analysis.
 
 Prerequisites:
-Python
-Flask
-BeautifulSoup
-Requests
+Python,
+Flask,
+BeautifulSoup,
+Requests,
 Flask-CORS
 
 Usage:
@@ -38,5 +38,5 @@ Install the required libraries using pip install flask beautifulsoup4 requests f
 Run the Flask application using python app.py.
 Access the web application in your browser.
 
-Contributions
+Contributions: 
 Contributions to this project are welcome. If you have ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
